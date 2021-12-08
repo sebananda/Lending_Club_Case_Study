@@ -37,7 +37,7 @@
 
 ## Contact - Team members
 
-1) Sebananda
+1) Sebananda Ghosh
 2) Bincy James
 
 
